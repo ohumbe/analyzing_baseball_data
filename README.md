@@ -1,4 +1,4 @@
-# analyzing_baseball_data program
+# analyzing_baseball_data program (python3)
 
 I developed this program for Week 4 of the "Python Data Analysis" Rice University 
 Coursera course (https://www.coursera.org/learn/python-analysis) which is part of the
